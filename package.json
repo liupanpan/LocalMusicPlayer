@@ -1,0 +1,17 @@
+{
+	"name":	"LocalMusicPlayer",
+	"version":	"0.1.0",
+	"main"	:	"main.js",
+	"license": "(MIT)",
+	"description"	:	"Plays music locally with given URLs.",
+	"scripts": {
+    	"start": "electron ."
+  	},
+	"repository": {	
+		"type"	:	"git",
+		"url"	:	"github.com/maxdobeck/LocalMusicPlayer"
+	},
+	"devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
